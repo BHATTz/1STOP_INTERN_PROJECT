@@ -9,6 +9,18 @@
     #div1 {
         color: brown;
     }
+    
+    .hump {
+        color: blueviolet;
+    }
+    
+    div .htext {
+        text-decoration: none;
+    }
+    
+    .htext :hover {
+        color: aliceblue;
+    }
     /* body {
         background-color: black;
     }
