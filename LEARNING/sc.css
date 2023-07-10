@@ -1,5 +1,5 @@
     * {
-        background-color: bisque;
+        background-color: rgb(125, 123, 121);
     }
     
     p {
@@ -14,12 +14,12 @@
         color: blueviolet;
     }
     
-    div .htext {
+    div .ht {
         text-decoration: none;
     }
     
-    .htext :hover {
-        color: aliceblue;
+    .ht:hover {
+        color: rgb(0, 255, 255);
     }
     /* body {
         background-color: black;
