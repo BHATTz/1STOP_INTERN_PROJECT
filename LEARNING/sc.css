@@ -107,9 +107,69 @@
 /* letter-spacing: 5px;
 } */
 
+img {
+    /* float: right; */
+    float: inherit;
+    width: 100px;
+    height: auto;
+}
 
-/* img {
-    float: right;
-    width: 80%;
-    height: 80%;
+
+/* p { */
+
+
+/* display: block; */
+
+
+/* font-family: 'Courier New',
+        Courier,
+        monospace; */
+
+
+/* text-align: center; */
+
+
+/* border-style: solid; */
+
+
+/* border-bottom-style: dashed; */
+
+
+/* border-color: blue;
+    border-radius: 50px; */
+
+
+/* padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 } */
+
+
+/* p:hover {
+        color: aliceblue;
+        background-color: black;
+    } */
+
+
+/* span {
+            display: none;
+        } */
+
+.flexbox {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flexbox>div {
+    background-color: gray;
+    padding: 30px;
+    border: 1px solid black;
+    margin: 5px;
+    width: 50px;
+}
