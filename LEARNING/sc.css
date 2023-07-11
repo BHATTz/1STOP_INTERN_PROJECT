@@ -1,18 +1,36 @@
-    /* * { */
-    /* background-color: rgb(0, 0, 0); */
-    /* background-color: #111;
+/* * { */
+
+
+/* background-color: rgb(0, 0, 0); */
+
+
+/* background-color: #111;
 } */
-    /* #one { */
-    /* background-color: #a75252; */
-    /* opacity: 0.5; */
-    /* background-image: url("bg.jpg");
+
+
+/* #one { */
+
+
+/* background-color: #a75252; */
+
+
+/* opacity: 0.5; */
+
+
+/* background-image: url("bg.jpg");
         background-repeat: no-repeat;
         background-size: 100%; */
-    /* background-attachment: scroll;
+
+
+/* background-attachment: scroll;
         background-position: center; */
-    /* background: #a75252 url("bg.jpg") 100%;
+
+
+/* background: #a75252 url("bg.jpg") 100%;
     } */
-    /* p {
+
+
+/* p {
         color: rgb(13, 184, 53);
     }
     
@@ -31,7 +49,9 @@
     .ht:hover {
         color: rgb(0, 255, 255);
     } */
-    /* body {
+
+
+/* body {
         background-color: black;
     }
     
@@ -48,22 +68,48 @@
         color: aliceblue;
         text-align: left;
     } */
-    /* p { */
-    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
-    /* font-family: 'Roboto', sans-serif;
+
+
+/* p { */
+
+
+/* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+
+
+/* font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-size: x-large;
     font-weight: 900;
     font-variant: small-caps;
 } */
-    
-    h1 {
+
+
+/* h1 {
         color: #232082;
-        text-align: center;
-        /* text-decoration: overline; */
-        text-decoration: underline;
-        /* text-transform: capitalize; */
-        text-transform: lowercase;
-        /* text-indent: 10%; */
-        letter-spacing: 5px;
-    }
+        text-align: center; */
+
+
+/* text-decoration: overline; */
+
+
+/* text-decoration: underline; */
+
+
+/* text-transform: capitalize; */
+
+
+/* text-transform: lowercase; */
+
+
+/* text-indent: 10%; */
+
+
+/* letter-spacing: 5px;
+} */
+
+
+/* img {
+    float: right;
+    width: 80%;
+    height: 80%;
+} */
