@@ -12,3 +12,10 @@
 // function printAStatementWithMyName(myName){
 //     alert("HEY "+myName+", HOW ARE YOU");
 // }
+
+// let func=(ar1,ar2)=> expression
+function sum(a,b){
+    return parseInt(a)+parseInt(b);
+}
+alert(sum(10,15));
+let sumFunc = (arg1,arg2) => parseInt(arg1)+parseInt
