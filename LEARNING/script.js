@@ -82,14 +82,15 @@
 // }
 // myarrayofobject.push(newobjectforarray);
 
-let coffeecup = {
-    color:'white',
-    size: 'm',
-    hassaucer:true,
-    printwhatudo:function(){
-        console.log("i contain either cofee or tea");
-    }
-};
+// let coffeecup = {
+//     color:'white',
+//     size: 'm',
+//     hassaucer:true,
+//     printwhatudo:function(){
+//         console.log("i contain either cofee or tea");
+//     }
+// };
+
 //dot notation
 // console.log("the coffee cup is of size :" + coffeecup.size);
 //array notation
@@ -108,5 +109,6 @@ let coffeecup = {
 
 // coffeecup.size='l';
 
-console.log(coffeecup);
-coffeecup.printwhatudo();
+// console.log(coffeecup);
+// coffeecup.printwhatudo();
+
