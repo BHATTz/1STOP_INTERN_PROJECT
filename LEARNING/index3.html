@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JS</title>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script> -->
 </head>
 
 <body>
@@ -57,7 +58,7 @@
     <!-- <script>
         alert('page loading')
     </script> -->
-    <script src="script.js">//external js</script> 
+    <!-- <script src="script.js">//external js</script>  -->
     <!-- <div id="temp"></div> -->
     <script>
         //single line comments /* multi lines comments*/ // something() // var a = 100; // function something() { // // var a = 10; // const pi = 3.14 // } // alert(a); // a = 10; // console.log("Loggin to the console"); // alert("this is an alert"); // document.write("hii!!!");
@@ -193,6 +194,15 @@
 
         // showMyName();
         // printAStatementWithMyName();
+    </script>
+    <p></p>
+    <div id="first_element"></div>
+    <div class="first_class"></div>
+    <script src="vendor/jquery/jquery.js"></script>
+    <script src="test/javascript">
+        $('p').text('inserted into paragraph');
+        $('#first_element').text('inserted into first element');
+        $('.first_class').text('inserted into first class');
     </script>
 </body>
 
