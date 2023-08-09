@@ -6,14 +6,18 @@
     <title>Document</title>
 </head>
 <body>
-    <p></p>
+    <!-- <p></p>
     <div id="first_element"></div>
-    <div class="first_class"></div>
+    <div class="first_class"></div> -->
+    <button type="button" onclick="alert('hello')">CLICK ME</button>
     <script src="vendor/jquery/jquery.js"></script>
     <script>
-        $('p').text('inserted into paragraph');
-        $('#first_element').text('inserted into first element');
-        $('.first_class').text('inserted into first class');
+        // $('p').text('inserted into paragraph');
+        // $('#first_element').text('inserted into first element');
+        // $('.first_class').text('inserted into first class');
+        $('button').on('click',function(){
+            alert('button clicked')
+        })
     </script>
 </body>
 </html>
