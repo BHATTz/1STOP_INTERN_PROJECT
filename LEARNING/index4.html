@@ -9,14 +9,19 @@
     <!-- <p></p>
     <div id="first_element"></div>
     <div class="first_class"></div> -->
-    <button type="button" onclick="alert('hello')">CLICK ME</button>
+    <!-- <button type="button" onclick="alert('hello')">CLICK ME</button> -->
+    <input type="text" id="input">
     <script src="vendor/jquery/jquery.js"></script>
     <script>
         // $('p').text('inserted into paragraph');
         // $('#first_element').text('inserted into first element');
         // $('.first_class').text('inserted into first class');
-        $('button').on('click',function(){
-            alert('button clicked')
+        // $('button').on('click',function(){
+        // $('button').mouseenter(function(){
+        $('#input').focus(function(){
+            // alert('button clicked')
+            // alert('value has been changed')
+            alert('exit box click')
         })
     </script>
 </body>
